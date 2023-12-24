@@ -1,0 +1,104 @@
+.appoint-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.appoint-text {
+  top: 58px;
+  left: 400px;
+  position: absolute;
+}
+.appoint-text1 {
+  top: 178px;
+  left: 230px;
+  position: absolute;
+}
+.appoint-text2 {
+  top: 178px;
+  right: 30px;
+  position: absolute;
+}
+.appoint-sidebar {
+  top: 56px;
+  left: 5px;
+  width: 212px;
+  height: 925px;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: absolute;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5px;
+  flex-direction: row;
+  justify-content: center;
+}
+.appoint-nav {
+  top: 56px;
+  flex: 0 0 auto;
+  left: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.appoint-navlink {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.appoint-navlink1 {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.appoint-navlink2 {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.appoint-navlink3 {
+  text-decoration: none;
+}
+.appoint-navlink4 {
+  top: 303px;
+  left: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.ad-userBappoint-container{
+  top: 250px;
+  left: 230px;
+  position: absolute;
+  text-decoration: none;
+}
+.appoint-text3{
+  top: 178px;
+  left: 600px;
+  position: absolute;
+
+}
+
+.ad-userCappoint-container{
+
+  top: 250px;
+  left: 970px;
+  position: absolute;
+  text-decoration: none;
+}
+
+.ad-userPappoint-container{
+  
+    top: 250px;
+    left: 600px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.ad-createappoint-container{
+    
+    top: 120px;
+    left: 320px;
+    position: absolute;
+    text-decoration: none;
+}

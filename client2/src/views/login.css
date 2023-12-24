@@ -1,0 +1,37 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  border-color: #ffffff;
+  border-width: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+.login-navlink {
+  top: 352px;
+  left: 371px;
+  position: absolute;
+  text-decoration: none;
+}
+.login-navlink1 {
+  top: 351px;
+  left: 673px;
+  position: absolute;
+  text-decoration: none;
+}
+.login-navlink2 {
+  top: 511px;
+  left: 531px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+}
+.login-text2 {
+  top: 213px;
+  left: 443px;
+  color: #ffffff;
+  position: absolute;
+}

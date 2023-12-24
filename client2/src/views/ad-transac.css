@@ -1,0 +1,72 @@
+.ad-transac-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.ad-transac-sidebar {
+  top: 73px;
+  left: -3px;
+  width: 203px;
+  height: 929px;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ad-transac-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ad-transac-navlink {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.ad-transac-navlink1 {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.ad-transac-navlink2 {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.ad-transac-navlink3 {
+  margin-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.ad-transac-navlink4 {
+  text-decoration: none;
+}
+.ad-transac-navlink5 {
+  top: 412px;
+  left: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.ad-transac-text {
+  top: 106px;
+  left: 311px;
+  position: absolute;
+}
+
+.ad-transaction-container{
+  top: 150px;
+  left: 311px;
+  position: absolute;
+}
+
+.ad-createtransaction-container{
+  top: 115px;
+  left: 550px;
+  position: absolute;
+
+}
